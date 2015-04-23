@@ -13,7 +13,7 @@ import (
 	
 	"github.com/mailgun/vulcand/plugin/trace"
 	
-	"github.com/mailgun/vulcand-auth/auth"
+	"github.com/miracle2k/vulcand-auth/auth"
 	
 )
 
